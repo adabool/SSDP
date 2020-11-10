@@ -1,4 +1,3 @@
 # SSDP
-A light weight linux platform(Raspberry Pi~Raspbian) implementation of Sandesh Sherni Durmapi Parivahan(SSDP) aka Message Queue Telemetry Transport(MQTT) protocol V5 in C language.
 
-
+A very simple and basic implementation of MQTT V5 protocol using C on Raspberry Pi(Linux-Raspbian) platform.
